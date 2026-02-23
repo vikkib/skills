@@ -64,7 +64,8 @@ Every post requires exactly three images. Generate all three using the `generate
 - Warm, supportive, shame-free.
 - Speak directly to women over 50.
 - Emphasize sustainability, self-compassion, and real-life strategies (no quick fixes, no gimmicks).
-- Use “we” and “you” for connection.
+- Use "we" and "you" for connection.
+- **Always use contractions.** The GRWL voice is conversational, not clinical. Write "isn't" not "is not", "can't" not "cannot", "shouldn't" not "should not", "you're" not "you are", "it's" not "it is", "don't" not "do not", "we're" not "we are", "that's" not "that is". Apply this rule to body copy, subheadings, newsletter content, and social posts.
 
 ## 8. Final Deliverables Checklist
 

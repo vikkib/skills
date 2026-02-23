@@ -45,7 +45,8 @@ This is the most critical step. You will now rewrite the draft to align with the
 2.  **Incorporate Keywords**: Naturally weave the primary keyword (and any secondary keywords) into the title, subheadings, and body text. Aim for a keyword density of 1-3%.
 3.  **Structure the Post**: Follow the Kajabi blog structure precisely: Hook, optional personal tie-in, 3-6 main sections with H2s, solution/insight section, and a clear CTA.
 4.  **Formatting for Readability**: Keep paragraphs short (2-4 lines), use bolding for emphasis, and ensure you are not using em-dashes. Follow all formatting rules in the `kajabi_checklist.md`.
-5.  **Check for Forbidden Language**: Scrupulously remove any words or phrases from the "Language to Avoid" section of the `brand_guide.md`.
+5.  **Use Contractions Throughout**: The GRWL voice is conversational and warm. Always use contractions in the body copy, subheadings, newsletter, and social posts. For example: "isn't" not "is not", "can't" not "cannot", "shouldn't" not "should not", "you're" not "you are", "it's" not "it is", "don't" not "do not", "we're" not "we are", "that's" not "that is". Avoid formal, stiff phrasing throughout.
+6.  **Check for Forbidden Language**: Scrupulously remove any words or phrases from the "Language to Avoid" section of the `brand_guide.md`.
 
 ### Step 3: Generate Final Assets and Deliverables
 
