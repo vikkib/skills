@@ -41,6 +41,8 @@ This is a sequential process. Follow these steps in order.
 
 This is the most critical step. You will now rewrite the draft to align with the GRWL brand and the Kajabi checklist.
 
+**Important:** If the draft is a recipe post, do NOT use the standard Blog Structure. Instead, follow Section 10 (Recipe Post Formatting) of the `kajabi_checklist.md`. The recipe section replaces the standard structure but all other checklist sections (tag selection, SEO, tone, visuals, deliverables) still apply. Do NOT rewrite or change the ingredients, instructions, or nutrition values provided in the draft.
+
 1.  **Apply the GRWL Voice and Tone**: Rewrite sentences and paragraphs to be warm, supportive, and shame-free. Infuse the personality of the brand personas (Oprah, Mel Robbins, etc.) as described in the `brand_guide.md`.
 2.  **Incorporate Keywords**: Naturally weave the primary keyword (and any secondary keywords) into the title, subheadings, and body text. Aim for a keyword density of 1-3%.
 3.  **Structure the Post**: Follow the Kajabi blog structure precisely: Hook, optional personal tie-in, 3-6 main sections with H2s, solution/insight section, and a clear CTA.
