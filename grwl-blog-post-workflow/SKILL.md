@@ -53,17 +53,27 @@ This is the most critical step. You will now rewrite the draft to align with the
 Once the blog post content is finalized, you will generate all the required assets as specified in the `kajabi_checklist.md`.
 
 1.  **Final SEO and Metadata**: Generate the slug, meta title, meta description, and all other required metadata.
-2.  **Image Generation**: Generate all three required images as specified in the `kajabi_checklist.md` Visuals section: a wide featured image (`landscape`) for the top of the post, a wide mid-post image (`landscape`) placed between the third and fourth H2 sections, and a tall closing image (`portrait`) placed just above or alongside the final CTA. Write alt text for each. Vary the woman's ethnicity across the three images within the same post.
-3.  **Callout Box**: Write a short, punchy callout box statement (1-2 sentences max) that captures the emotional core of the post, followed by a brief CTA (one sentence). The statement should feel bold and quotable -- something a reader would stop and re-read. The CTA should link to the GRWL program or a related resource. Use contractions. Do not use em dashes.
-4.  **Newsletter and Social Media Content**: Write the newsletter summary and social media posts as specified in the checklist.
-5.  **Final Review**: Perform a final check of all deliverables against the `kajabi_checklist.md`. Ensure the Flesch-Kincaid score is 65+.
+2.  **Tag Selection**: Select the single most relevant Kajabi tag for the post from this list:
+    - `food & mood`
+    - `food facts`
+    - `food finds`
+    - `get moving`
+    - `mental & emotional weight`
+    - `recipe`
+    - `mindset`
+
+    Choose the tag that best reflects the post's primary focus. If the post spans multiple categories, pick the dominant one. Include the selected tag in the deliverables with a one-sentence rationale.
+3.  **Image Generation**: Generate all three required images as specified in the `kajabi_checklist.md` Visuals section: a wide featured image (`landscape`) for the top of the post, a wide mid-post image (`landscape`) placed between the third and fourth H2 sections, and a tall closing image (`portrait`) placed just above or alongside the final CTA. Write alt text for each. Vary the woman's ethnicity across the three images within the same post.
+4.  **Callout Box**: Write a short, punchy callout box statement (1-2 sentences max) that captures the emotional core of the post, followed by a brief CTA (one sentence). The statement should feel bold and quotable -- something a reader would stop and re-read. The CTA should link to the GRWL program or a related resource. Use contractions. Do not use em dashes.
+5.  **Newsletter and Social Media Content**: Write the newsletter summary and social media posts as specified in the checklist.
+6.  **Final Review**: Perform a final check of all deliverables against the `kajabi_checklist.md`. Ensure the Flesch-Kincaid score is 65+.
 
 ### Step 4: Package and Deliver
 
 Organize all the final deliverables into a clear, easy-to-understand format for the user. This should include:
 
 *   The final, rewritten blog post in a Markdown file.
-*   All the metadata and SEO elements.
+*   All the metadata and SEO elements, including the selected Kajabi tag and rationale.
 *   All three generated images (featured, mid-post, closing) with their file paths and alt text.
 *   The callout box statement and CTA.
 *   The newsletter content.

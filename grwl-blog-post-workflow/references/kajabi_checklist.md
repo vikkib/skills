@@ -18,7 +18,21 @@ These are the standard steps for drafting, formatting, and publishing every Kaja
 - **Bold important words and phrases** for ease of reading.
 - **Closing + CTA**: End with encouragement and a clear next step (program link, free guide, or related blog).
 
-## 3. SEO Elements (required for every post)
+## 3. Tag Selection (required for every post)
+
+Select the single most relevant tag for the post from this list:
+
+- `food & mood` -- for posts about the emotional or psychological relationship with food
+- `food facts` -- for posts grounded in nutrition science, research, or education
+- `food finds` -- for posts featuring specific foods, ingredients, or product recommendations
+- `get moving` -- for posts focused on exercise, movement, or strength training
+- `mental & emotional weight` -- for posts about mindset, stress, self-compassion, or emotional barriers to weight loss
+- `recipe` -- for posts that include or are centred on a recipe
+- `mindset` -- for posts focused on beliefs, habits, motivation, or personal growth
+
+Choose the tag that best reflects the post's primary focus. If the post spans multiple categories, pick the dominant one. Include the selected tag and a one-sentence rationale in the deliverables.
+
+## 4. SEO Elements (required for every post)
 
 - **Slug**: Short, lowercase, hyphen-separated (e.g., compassionate-weight-loss).
 - **Meta Title (≤60 characters)**: Clear and clickable; should include main keyword.
@@ -28,7 +42,7 @@ These are the standard steps for drafting, formatting, and publishing every Kaja
     - One subheading
     - A few times in the body (1-3% density)
 
-## 4. Formatting & Readability
+## 5. Formatting & Readability
 
 - Keep paragraphs short: 2–4 lines max.
 - Use H2 subheadings for main points; H3s for supporting detail. Do not skip header levels.
@@ -38,7 +52,7 @@ These are the standard steps for drafting, formatting, and publishing every Kaja
 - Do not use em dashes.
 - Follow WCAG 2.0 accessibility standards.
 
-## 5. Visuals
+## 6. Visuals
 
 Every post requires exactly three images. Generate all three using the `generate_image` tool, using the brand visual style (women 50+, real-life, natural, warm, brand colors `#FBD9B1`, `#2D5D44`, `#674736`, `#4E83A4`, `#FFB433`, `#0D2945`, `#CB3A01`, `#719949`). Vary the woman's ethnicity across images within the same post.
 
@@ -52,14 +66,14 @@ Every post requires exactly three images. Generate all three using the `generate
     - Stay under 360 characters
     - Optimize for AEO and GIO
 
-## 6. Call-to-Action (CTA)
+## 7. Call-to-Action (CTA)
 
 - Always end with a CTA. Examples:
     - Learn more about the Get Real Weight Loss Program
     - Read our related post on [link]
 - CTA should be encouraging, not pushy — aligned with our compassionate tone.
 
-## 7. Tone & Voice
+## 8. Tone & Voice
 
 - Warm, supportive, shame-free.
 - Speak directly to women over 50.
@@ -67,30 +81,31 @@ Every post requires exactly three images. Generate all three using the `generate
 - Use "we" and "you" for connection.
 - **Always use contractions.** The GRWL voice is conversational, not clinical. Write "isn't" not "is not", "can't" not "cannot", "shouldn't" not "should not", "you're" not "you are", "it's" not "it is", "don't" not "do not", "we're" not "we are", "that's" not "that is". Apply this rule to body copy, subheadings, newsletter content, and social posts.
 
-## 8. Final Deliverables Checklist
+## 9. Final Deliverables Checklist
 
 After creating the post, you must provide:
 
-1.  A 150-word summary for schema markup.
-2.  An AEO-optimized slug.
-3.  A 60-character AEO title.
-4.  A 160-character summary.
-5.  A 20-word version of the summary for SEO description.
-6.  The title in 3 power words, comma-separated.
-7.  The main keyword used (must be 1-3% of content).
-8.  The final Flesch-Kincaid score (must be 65+).
-9.  Three images, each with its file path and alt text containing the keyword:
+1.  The selected Kajabi tag and a one-sentence rationale for the selection.
+2.  A 150-word summary for schema markup.
+3.  An AEO-optimized slug.
+4.  A 60-character AEO title.
+5.  A 160-character summary.
+6.  A 20-word version of the summary for SEO description.
+7.  The title in 3 power words, comma-separated.
+8.  The main keyword used (must be 1-3% of content).
+9.  The final Flesch-Kincaid score (must be 65+).
+10. Three images, each with its file path and alt text containing the keyword:
     - Image 1: wide featured image (landscape), placed at the top of the post.
     - Image 2: wide mid-post image (landscape), placed between the third and fourth H2 sections.
     - Image 3: tall closing image (portrait), placed just above or alongside the final CTA.
-10. A callout box containing:
+11. A callout box containing:
     - A short, bold statement (1-2 sentences) capturing the emotional core of the post. Should feel quotable and make the reader pause.
     - A one-sentence CTA linking to the GRWL program or a related resource.
     - Written in contractions, no em dashes.
-11. A newsletter summary with:
+12. A newsletter summary with:
     - Enticing email subject
     - Headline
     - 140-character preview text
     - Short introductory paragraph
     - Summary of the blog post with a CTA to the `[link to URL]`.
-11. Social posts for Facebook and Instagram with relevant hashtags, including `#GetRealWeightLoss`.
+13. Social posts for Facebook and Instagram with relevant hashtags, including `#GetRealWeightLoss`.
