@@ -70,13 +70,18 @@ Once the blog post content is finalized, you will generate all the required asse
 
 ### Step 4: Package and Deliver
 
-Organize all the final deliverables into a clear, easy-to-understand format for the user. This should include:
+Organize all the final deliverables into two files:
 
-*   The final, rewritten blog post in a Markdown file.
-*   All the metadata and SEO elements, including the selected Kajabi tag and rationale.
-*   All three generated images (featured, mid-post, closing) with their file paths and alt text.
-*   The callout box statement and CTA.
-*   The newsletter content.
-*   The social media posts.
+1.  **Blog post file** (`final_post.md`): The rewritten blog post in Markdown format. This is fine as a .md file since it is not pasted into Kajabi directly.
 
-Present these to the user as a complete package.
+2.  **Deliverables file** (`deliverables.txt`): MUST be saved as a plain .txt file -- NOT Markdown (.md). This is critical. The user copies content from this file directly into Kajabi templates. Markdown files rendered in the Manus conversation UI carry hidden CSS that breaks Kajabi's text blocks. The .txt file must contain:
+    - Selected Kajabi tag and rationale
+    - All SEO and metadata elements
+    - Callout box statement and CTA
+    - Featured image alt text
+    - Newsletter content (subject, headline, preview text, intro paragraph, blog summary with CTA)
+    - Facebook and Instagram social posts with hashtags
+
+    Use plain section headers (e.g. ALL CAPS with dashes underneath) instead of Markdown syntax. Use only straight quotes and plain hyphens. No asterisks, pound signs, or other Markdown characters.
+
+Attach both files when presenting to the user.
