@@ -83,7 +83,11 @@ After creating the post, you must provide:
     - Image 1: wide featured image (landscape), placed at the top of the post.
     - Image 2: wide mid-post image (landscape), placed between the third and fourth H2 sections.
     - Image 3: tall closing image (portrait), placed just above or alongside the final CTA.
-10. A newsletter summary with:
+10. A callout box containing:
+    - A short, bold statement (1-2 sentences) capturing the emotional core of the post. Should feel quotable and make the reader pause.
+    - A one-sentence CTA linking to the GRWL program or a related resource.
+    - Written in contractions, no em dashes.
+11. A newsletter summary with:
     - Enticing email subject
     - Headline
     - 140-character preview text
