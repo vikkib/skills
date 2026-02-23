@@ -74,7 +74,9 @@ Organize all the final deliverables into two files:
 
 1.  **Blog post file** (`final_post.md`): The rewritten blog post in Markdown format. This is fine as a .md file since it is not pasted into Kajabi directly.
 
-2.  **Deliverables file** (`deliverables.txt`): MUST be saved as a plain .txt file -- NOT Markdown (.md). This is critical. The user copies content from this file directly into Kajabi templates. Markdown files rendered in the Manus conversation UI carry hidden CSS that breaks Kajabi's text blocks. The .txt file must contain:
+2.  **Deliverables document**: MUST be created as a Word (.docx) file using python-docx and uploaded to the user's Google Drive in a folder called "GRWL Blog Posts" using rclone. This is critical. The user copies content from this document directly into Kajabi templates. Markdown files and plain text files both cause problems: Markdown carries hidden CSS that breaks Kajabi text blocks, and plain text loses the formatting the user needs to see. A Google Doc (uploaded as .docx via rclone with --drive-import-formats docx) copies cleanly into Kajabi with no formatting issues.
+
+    The deliverables document must contain:
     - Selected Kajabi tag and rationale
     - All SEO and metadata elements
     - Callout box statement and CTA
@@ -82,6 +84,9 @@ Organize all the final deliverables into two files:
     - Newsletter content (subject, headline, preview text, intro paragraph, blog summary with CTA)
     - Facebook and Instagram social posts with hashtags
 
-    Use plain section headers (e.g. ALL CAPS with dashes underneath) instead of Markdown syntax. Use only straight quotes and plain hyphens. No asterisks, pound signs, or other Markdown characters.
+    Use python-docx to create the .docx file with proper heading styles (Heading 1 for the title, Heading 2 for sections, Heading 3 for subsections) and bold labels. Do NOT use em dashes anywhere. Use straight quotes only.
 
-Attach both files when presenting to the user.
+    After uploading, generate a shareable link using:
+    rclone link "manus_google_drive:GRWL Blog Posts/<filename>" --config /home/ubuntu/.gdrive-rclone.ini
+
+    Provide the shareable Google Drive link to the user along with the blog post file.
