@@ -40,11 +40,15 @@ These are the standard steps for drafting, formatting, and publishing every Kaja
 
 ## 5. Visuals
 
-- **Featured image**: a wide, lifestyle-oriented, photographic image, aligned with GRWL brand (women 50+, real-life, natural, warm, using brand colors).
-- **Supporting images**: 2–4 per post where possible.
+Every post requires exactly three images. Generate all three using the `generate_image` tool, using the brand visual style (women 50+, real-life, natural, warm, brand colors `#FBD9B1`, `#2D5D44`, `#674736`, `#4E83A4`, `#FFB433`, `#0D2945`, `#CB3A01`, `#719949`). Vary the woman's ethnicity across images within the same post.
+
+- **Image 1 — Featured image (top of post)**: `landscape` aspect ratio. Wide, lifestyle-oriented scene. Sets the emotional tone of the post. Place at the very top, above the title or immediately below it in Kajabi.
+- **Image 2 — Mid-post image (halfway through the post)**: `landscape` aspect ratio. Relates to the section it sits within. Should feel like a natural continuation of the story, not a repeat of Image 1. Place it between the third and fourth H2 sections.
+- **Image 3 — Bottom image (end of post, above or near the CTA)**: `portrait` aspect ratio. Warmer, more intimate or motivational in feel. Reinforces the closing message and CTA. Place it just above or alongside the final CTA paragraph.
+
 - **Alt text**: Write 2–3 sentences per image that:
     - Describe the image clearly
-    - Connect to the blog’s theme/keyword
+    - Connect to the blog's theme/keyword
     - Stay under 360 characters
     - Optimize for AEO and GIO
 
@@ -74,7 +78,10 @@ After creating the post, you must provide:
 6.  The title in 3 power words, comma-separated.
 7.  The main keyword used (must be 1-3% of content).
 8.  The final Flesch-Kincaid score (must be 65+).
-9.  A wide, photographic image (and its path) with alt text containing the keyword.
+9.  Three images, each with its file path and alt text containing the keyword:
+    - Image 1: wide featured image (landscape), placed at the top of the post.
+    - Image 2: wide mid-post image (landscape), placed between the third and fourth H2 sections.
+    - Image 3: tall closing image (portrait), placed just above or alongside the final CTA.
 10. A newsletter summary with:
     - Enticing email subject
     - Headline

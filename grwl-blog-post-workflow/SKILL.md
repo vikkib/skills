@@ -52,7 +52,7 @@ This is the most critical step. You will now rewrite the draft to align with the
 Once the blog post content is finalized, you will generate all the required assets as specified in the `kajabi_checklist.md`.
 
 1.  **Final SEO and Metadata**: Generate the slug, meta title, meta description, and all other required metadata.
-2.  **Image Generation**: Create a prompt for the featured image that aligns with the visual style in the `brand_guide.md`. Generate the image, and write the alt text.
+2.  **Image Generation**: Generate all three required images as specified in the `kajabi_checklist.md` Visuals section: a wide featured image (`landscape`) for the top of the post, a wide mid-post image (`landscape`) placed between the third and fourth H2 sections, and a tall closing image (`portrait`) placed just above or alongside the final CTA. Write alt text for each. Vary the woman's ethnicity across the three images within the same post.
 3.  **Newsletter and Social Media Content**: Write the newsletter summary and social media posts as specified in the checklist.
 4.  **Final Review**: Perform a final check of all deliverables against the `kajabi_checklist.md`. Ensure the Flesch-Kincaid score is 65+.
 
@@ -62,7 +62,7 @@ Organize all the final deliverables into a clear, easy-to-understand format for 
 
 *   The final, rewritten blog post in a Markdown file.
 *   All the metadata and SEO elements.
-*   The generated image and its alt text.
+*   All three generated images (featured, mid-post, closing) with their file paths and alt text.
 *   The newsletter content.
 *   The social media posts.
 
