@@ -109,3 +109,85 @@ After creating the post, you must provide:
     - Short introductory paragraph
     - Summary of the blog post with a CTA to the `[link to URL]`.
 13. Social posts for Facebook and Instagram with relevant hashtags, including `#GetRealWeightLoss`.
+
+---
+
+## 10. Recipe Post Formatting (use instead of standard Blog Structure for recipe posts)
+
+When the draft is a recipe, replace the standard Blog Structure (Section 2) with the following format. All other sections (Tag Selection, SEO Elements, Formatting, Visuals, Tone, Deliverables) still apply.
+
+### 10.1 Title (H1)
+
+- Sentence case only. Capitalize first word and proper nouns.
+- Keep under 60 characters for SEO.
+- Must start with the word "Recipe:"
+
+Example: Recipe: Simple gut-friendly salmon bowl
+
+Do not skip header hierarchy.
+
+### 10.2 Hook paragraph (2-4 lines max)
+
+- Short and relatable.
+- Speak directly to women 50+.
+- Avoid diet culture language.
+
+Example: You want something simple. Something real. Not another complicated plan. This is the kind of meal that supports your body without drama.
+
+### 10.3 Why this recipe supports compassionate weight loss (short paragraph)
+
+- Keep short but meaningful.
+- Explain how it supports steady energy, includes real food, aligns with aging strong, and supports compassionate weight loss.
+- Bold 2-4 key phrases for scannability.
+
+### 10.4 Ingredients (H2)
+
+- Use a clean bullet list.
+- Do NOT change the ingredients provided in the draft.
+
+### 10.5 Instructions (H2)
+
+- Do NOT change the actual instructions provided in the draft.
+- Use numbered steps.
+- Short sentences. One action per step.
+
+### 10.6 Nutrition
+
+- Do NOT change the nutrition values provided in the draft.
+- Present as a bullet point list.
+
+### 10.7 Notes
+
+- Offer simple variations using a bullet list:
+    - Swap protein option
+    - Make ahead option
+    - Budget option
+    - Family-friendly tip
+- Keep tone warm and practical.
+
+### 10.8 Closing paragraph and CTA
+
+- Encouraging, not pushy.
+- Add an internal link to the program page or a related blog post.
+
+Example: You don't need complicated plans. You need real meals that support your life. If you're ready for more compassionate weight loss strategies, explore the Get Real Weight Loss program.
+
+### 10.9 Recipe Image Checklist
+
+Recipe posts require 1 featured image and 2-3 supporting images (instead of the standard 3-image set). All images must follow these rules:
+
+- Women 50+ represented across ethnic backgrounds.
+- Natural lighting.
+- Real kitchens.
+- No staged "diet" vibes.
+- Alt text: 2-3 sentences, clear description, includes keyword, under 360 characters.
+
+### 10.10 Recipe SEO Elements
+
+In addition to the standard SEO elements (Section 4), ensure the main keyword appears in:
+
+- The title
+- At least one H2
+- Body text at 1-3% density
+- Meta title
+- Meta description
