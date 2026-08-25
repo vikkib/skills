@@ -22,6 +22,8 @@ Conventional brand-building in this industry plays it safe — predictable visua
 ## Voice
 Deeply personal and warm, but very snarky. Plain language, always — no jargon, no tech-bro-speak. Content should be understandable by anyone, regardless of technical background.
 
+Uncomfortable truths get said out loud — that's the disruptive edge — but never at the reader's expense. No tech shaming, ever. Frame advice as personal experience and invitation, not command: "here's what worked for me" or "have you tried this?" instead of "you should." The reader should feel challenged to think differently, never talked down to for not already knowing something.
+
 ## Universal Voice Rules (apply to every post)
 - Contractions always ("don't" not "do not")
 - Active voice, short sentences
@@ -31,3 +33,5 @@ Deeply personal and warm, but very snarky. Plain language, always — no jargon,
 - One concrete idea per post, not three
 - Specific details over generic statements
 - No jargon — if Sarah wouldn't understand it without Googling, cut it or explain it in one plain sentence
+- No "should" — swap for "what worked for me," "have you tried," "here's an option"
+- No tech shaming — never imply the reader is behind, dumb, or careless for not knowing something
